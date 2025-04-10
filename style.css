@@ -1,3 +1,16 @@
 html{
- Background-color: blue; 
+ background-color: blue; 
 }
+
+h1{
+ color: red;
+ text-align: center;
+}
+
+p{
+ text-align: center;
+}
+.container{
+ text-align: center;
+}
+
